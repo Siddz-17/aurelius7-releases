@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.4.1",
-  "url": "https://raw.githubusercontent.com/Siddz-17/aurelius7-releases/main/apk/AURELIUS7-v0.4.1.apk",
-  "notes": "v0.4.1: track fast cinematic turns (coarse-to-fine + motion prediction)"
+  "versionCode": 8,
+  "versionName": "0.5",
+  "url": "https://raw.githubusercontent.com/Siddz-17/aurelius7-releases/main/apk/AURELIUS7-v0.5.apk",
+  "notes": "v0.5: tilt-to-view, film border + lenticular print, volume shutter, face aim, sounds, roll of 24, QS tile"
 }
