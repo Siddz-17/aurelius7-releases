@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.5.1",
-  "url": "https://raw.githubusercontent.com/Siddz-17/aurelius7-releases/main/apk/AURELIUS7-v0.5.1.apk",
-  "notes": "v0.5.1: selfie camera"
+  "versionCode": 10,
+  "versionName": "0.5.2",
+  "url": "https://raw.githubusercontent.com/Siddz-17/aurelius7-releases/main/apk/AURELIUS7-v0.5.2.apk",
+  "notes": "v0.5.2: selfie shows the true (non-mirrored) view by default; 'Mirror selfies' setting"
 }
