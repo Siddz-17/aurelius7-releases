@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.3.2",
-  "url": "https://raw.githubusercontent.com/Siddz-17/aurelius7-releases/main/apk/AURELIUS7-v0.3.2.apk",
-  "notes": "v0.3.2: UPDATED stamp also fires when coming from v0.3"
+  "versionCode": 6,
+  "versionName": "0.4",
+  "url": "https://raw.githubusercontent.com/Siddz-17/aurelius7-releases/main/apk/AURELIUS7-v0.4.apk",
+  "notes": "v0.4: dark film redesign, orbit capture, flash/torch, film stocks + grain, contact sheet, settings"
 }
