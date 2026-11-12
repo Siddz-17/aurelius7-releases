@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.4",
-  "url": "https://raw.githubusercontent.com/Siddz-17/aurelius7-releases/main/apk/AURELIUS7-v0.4.apk",
-  "notes": "v0.4: dark film redesign, orbit capture, flash/torch, film stocks + grain, contact sheet, settings"
+  "versionCode": 7,
+  "versionName": "0.4.1",
+  "url": "https://raw.githubusercontent.com/Siddz-17/aurelius7-releases/main/apk/AURELIUS7-v0.4.1.apk",
+  "notes": "v0.4.1: track fast cinematic turns (coarse-to-fine + motion prediction)"
 }
