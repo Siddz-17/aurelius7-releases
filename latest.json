@@ -1,6 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "0.5.2",
-  "url": "https://raw.githubusercontent.com/Siddz-17/aurelius7-releases/main/apk/AURELIUS7-v0.5.2.apk",
-  "notes": "v0.5.2: selfie shows the true (non-mirrored) view by default; 'Mirror selfies' setting"
+  "versionCode": 12,
+  "versionName": "0.6.0",
+  "url": "https://raw.githubusercontent.com/Siddz-17/aurelius7-releases/main/apk/AURELIUS7-v0.6.0.apk",
+  "sha256": "108510ce17be70e752a34c4ec989cd51e8a14222ab0e0e004b60651d5167f6bb",
+  "notes": "v0.6.0: 18 film/cinematic looks (halation, split-tone, fade, vignette, grain size), look strength slider, reel editor with timeline/transitions/MP4 export"
 }
