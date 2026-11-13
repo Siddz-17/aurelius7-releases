@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "0.6.1",
-  "url": "https://raw.githubusercontent.com/Siddz-17/aurelius7-releases/main/apk/AURELIUS7-v0.6.1.apk",
-  "sha256": "34a1a5324f00460632791ef61de69e78033f84522729a9483356c10fadef385a",
-  "notes": "v0.6.1: fix build (stray comment swallowed brace)"
+  "versionCode": 14,
+  "versionName": "0.7.0",
+  "url": "https://raw.githubusercontent.com/Siddz-17/aurelius7-releases/main/apk/AURELIUS7-v0.7.0.apk",
+  "sha256": "1c6ac024719289399f6670111a116f30cb9d439ac2c0511ebd648e476c8bc63c",
+  "notes": "v0.7.0: retro camera HUD (dot-matrix readout, date stamp, battery, REC), editor: play reel, duplicate, captions, date stamp, AAC music"
 }
