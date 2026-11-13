@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "0.6.0",
-  "url": "https://raw.githubusercontent.com/Siddz-17/aurelius7-releases/main/apk/AURELIUS7-v0.6.0.apk",
-  "sha256": "108510ce17be70e752a34c4ec989cd51e8a14222ab0e0e004b60651d5167f6bb",
-  "notes": "v0.6.0: 18 film/cinematic looks (halation, split-tone, fade, vignette, grain size), look strength slider, reel editor with timeline/transitions/MP4 export"
+  "versionCode": 13,
+  "versionName": "0.6.1",
+  "url": "https://raw.githubusercontent.com/Siddz-17/aurelius7-releases/main/apk/AURELIUS7-v0.6.1.apk",
+  "sha256": "34a1a5324f00460632791ef61de69e78033f84522729a9483356c10fadef385a",
+  "notes": "v0.6.1: fix build (stray comment swallowed brace)"
 }
